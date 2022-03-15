@@ -1,4 +1,4 @@
-### Name script : DDOS_PYTHON(˃ᆺ˂)
+### Name script : CRACK-ZIP(˃ᆺ˂)
 
 ### Copy command 👇
 ```
